@@ -1,0 +1,9 @@
+body {
+  background: pink;
+}
+
+.box1 {
+  background-color: lightblue;
+  width: 100px;
+  height: 100px;
+}
